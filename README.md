@@ -1,3 +1,4 @@
+[![GitHub_Data](https://github-readme-stats.vercel.app/api?username=syyu6)]()
 - 👋 Hi, I’m ThesYu.
 - 👀 I’m interested in Security.
 - 🌱 I’m currently learning GoLang, PHP, Java.
