@@ -1,4 +1,4 @@
-[![GitHub_Data](https://github-readme-stats.vercel.app/api?username=syyu6)]()
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syyu6&show_icons=true&theme=tokyonight)
 - 👋 Hi, I’m ThesYu.
 - 👀 I’m interested in Security.
 - 🌱 I’m currently learning GoLang, PHP, Java.
